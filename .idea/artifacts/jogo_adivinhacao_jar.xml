@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jogo_adivinhacao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jogo_adivinhacao_jar</output-path>
+    <root id="archive" name="jogo_adivinhacao.jar">
+      <element id="module-output" name="jogo_adivinhacao" />
+    </root>
+  </artifact>
+</component>
